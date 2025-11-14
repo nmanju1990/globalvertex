@@ -1,0 +1,2 @@
+# globalvertex
+global vertex
